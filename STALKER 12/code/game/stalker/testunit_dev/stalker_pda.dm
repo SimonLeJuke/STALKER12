@@ -913,42 +913,42 @@ var/global/global_lentahtml = ""
 							article_img = "electro"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "An anomalous formation, roughly 10 meters in diameter, accumulating large quantities of static electricity. When triggered, the anomaly bursts into a storm of arcing electricity nearly always lethal to all living beings. Easily recognizable by the blue gas it emits, along with the endless arcing of small bolts of electricity in the vicinity, the Electro holds no distinction for what crosses its event horizon, be it a human, a mutants or an inanimate object, and discharges as soon as anything gets too close."
+							article_text = "An anomalous formation, roughly 10m in diameter, containing large quantities of static electricity. When triggered, the anomaly will burst into a storm of arcing electricity nearly always lethal to all living beings. Easily recognizable by the blue gas it emits, along with the endless arcing of small bolts of electricity in the vicinity, the Electra holds no distinction for what crosses its event horizon - be it human, mutant or inanimate. And discharges as soon as anything gets too close. The Electra is always in clusters and often located in tightly confined spaces, although clusters out in the open with a spacing of one meter or more have also been recorded. They are easily avoided when outdoors, and at their most dangerous in confined areas."
 
 						if("Vortex")
 							article_title = "Vortex"
 							article_img = "vortex"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "An anomaly of presumably gravitational nature. When triggered, the tremendous power of the Vortex drags everything within the radius 10-15 meters towards the center. Victims drawn into the core have little to no chance of survival: their bodies are quickly constricted into a tight lump, only to be blown up in a powerful discharge of energy a moment later. In some cases, they may levitate in air with agony, and soon their entire systems are shredded into mere skeletal and flesh parts."
+							article_text = "An anomaly of a presumably gravitational nature. When triggered, the tremendous power of the Vortex drags everything within its radius of 10-15 meters toward the center. Victims drawn into the core have no chance of survival: their bodies are quickly constricted into a tight lump, only to be blown outward in a powerful discharge of energy a moment later. In some cases, they may levitate in the air in agony and soon, their entire body is shredded into bones and flesh. The anomaly remains stationary throughout its lifetime (a week on average). Easily recognizable in daylight by air fluctuation above, dancing leaves and usually fragments of dismembered corpses around. Highly dangerous at night as it can only be revealed by means of a detector or throwing objects into it."
 
 						if("Whirligig")
 							article_title = "Whirligig"
 							article_img = "whirligig"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "A common and dangerous anomaly, which snatches its victims up in the air and spins them at a breakneck speed. The exact nature of the Whirligig remains unknown. The anomaly can be recognized by a light whirlwind of dust above and by body fragments scattered in the vicinity. Victims caught on its outer rim, far enough from the maximum effect zone at the center, can escape the Whirligig with relatively minor injuries."
+							article_text = "A common and dangerous anomaly, which sntaches its victims up in the air and spins them at a breakneck speed. The exact nature of this anomaly remains unknown. It can be recognized by a light whirlwind of dust above and body fragments scattered around. Victims caught on its outer rim can potentially escape the Whirligig with minor injuries. Whenone is too close to the anomaly when triggered, the Whirligig will violently pull the victim up, which continues to severely batter the victim until it discharges and that discharge is powerful enough to dismember the victim purely by the sheer force exerted."
 
 						if("Burner")
 							article_title = "Burner"
 							article_img = "burner"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "The Burner can be a bit difficult to see, even in daylight, as it's only revealed by a faint heat haze. If the anomaly is triggered by either a living being or an object such as a metal bolt, it shoots out a tall pillar of flame in the air, burning everything in its vicinity. Though somewhat rare, the Burner anomaly is often found in clusters. Some clusters also emit extreme high ambient temperature, which hurts anything in their vicinity. Burners can emit temperatures as low as 100 degrees Celsius, up to several thousand, hot enough to crack concrete and melt metal, which explains why some Burners appear in areas that have massive cracks and severe damaged soil, while other sites are untouched."
+							article_text = "The Burner can be a bit difficult to see, even in daylight, as it’s only revealed by a faint heat haze. If the anomaly is triggered, it shoots out a tall pillar of flame, burning indiscriminately. Though somewhat rare, the Burner anomaly is often found in clusters. Some clusters also emit an extremely high ambient temperature, which cooks anything in the vicinity. Burners can emit temperatures anywhere from 100 degrees Celsius to several thousand - hot enough to crack concrete and melt metal, which explains why some Burners appear in areas with massive cracks and severely damaged soil, while other sites are untouched."
 
 						if("Fruit Punch")
 							article_title = "Fruit Punch"
 							article_img = "fruitpunch"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "The Fruit Punch is a puddle of lambent green liquid that is easily visible in almost any environment due to its bright glow and distinctive hissing and bubbling noises. On contact with creatures or objects such as bolts, a Fruit Punch lights up brightly and emits a sharp hissing sound. It is extremely corrosive, damaging creatures and objects on contact. Any matter left in a Fruit Punch will eventually dissolve, hinting at the anomaly's corrosive nature and spelling doom for any protective suit."
+							article_text = "The Fruit Punch is a puddle of lambent green liquid that is easily visible in almost any environment due to its bright glow and distinctive hissing and bubbling noises. On contact with creatures and objects, a Fruit Punch lights up brightly and emits a sharp hiss sound. It is extremely corrosive, damaging on contact. Any matter left in a Fruit Punch will eventually dissolve, hinting at the anomaly’s corrosive nature and spelling doom for any protective suit. Concerning its characteristics, it is generally accepted that it derives from the remnants of a radioactive spill of some reactive substance that gained anomalous abilities from the Zone’s unnatural existence. Its corrosive properties are exhibited by its intense and rapid damage to living tissue and inorganic matter - including plastic"
 
 						if("Burnt Fuzz")
 							article_title = "Burnt Fuzz"
 							article_img = "burntfuzz"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "This anomaly is usually found outdoors. It resembles moss or vines, hanging down like curtains from its growing spot. Reacts to rapidly approaching living beings by discharging a cloud of projectiles severely injuring uncovered or lightly protected skin upon contact. Does not react to slowly moving targets. Burnt Fuzz is generally considered the least dangerous anomaly in the Zone since it can be easily spotted and avoided."
+							article_text = "The Burnt Fuzz anomaly is usually found outdoors. It resembles moss or vines, hanging like curtains from its growing spot. Reacts to rapidly approaching creatures by discharging a cloud of projectiles, severely injuring uncovered or lightly armored skin upon contact. Does not react to slow moving targets. Burnt Fuzz is generally considered the least dangerous anomaly in the Zone since it can be easily spotted and avoided. Even so, it should be avoided."
 
 						if("Radiation")
 							article_title = "Radiation"
@@ -969,14 +969,14 @@ var/global/global_lentahtml = ""
 							article_img = "nodata.gif"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "Several generations of the dog species have lived and died since the catastrophe. Each was more affected by the Zone than the previous one. Rapid mutation lead to a vast improvement in previously peripheral abilities, frequently at the expense of primary ones. The most notable biological change was the loss of sight, paired with an uncanny development of smell. As it turned out, blind pups survived in the Zone as well as normal ones, if not better. As a result, the common dog quickly became extinct in the Zone, giving way to a new breed � that of blind dogs. The animals instinctively identify and avoid anomalies, radiation, and other invisible dangers that plague the Zone. Like their wild ancestors � the wolves � blind dogs hunt in packs. An encounter with a large group of these animals can be dangerous even to an experienced and well-armed stalker."
+							article_text = "The most familiar representative of the Zone’s mutants. Several generations of dogs have lived and died since the second disaster, with each being more affected by the Zone than the last. Numerous rapid mutations and evolutionary adaptations have led to the strengthening of previously weakly expressed canine abilities - at the expense of those that share their habitat. Vision and hearing in many of these dogs is completely lost, but they have since developed a kind of telepathic vision that allows them to feel their prey through walls and tremors. Like their wolf ancestors, blind dogs hunt in packs and an encounter with a large pack can be dangerous to even the most well-armed stalkers."
 
 						if("Flesh")
 							article_title = "Flesh"
 							article_img = "nodata.gif"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "Like many other living creatures, domestic pigs in The Zone underwent serious mutations following the second Chernobyl disaster, affecting genes responsible for their metabolism. This eventually caused the animal's phenotype to change significantly."
+							article_text = "Heavily mutated pigs and one of the most harmless of the Zone’s mutants. Like many other creatures living in the Zone, domestic pigs underwent serious mutations following the second disaster, affecting genes responsible for their metabolism. This eventually caused the animal’s phenotype to change significantly, their forelimbs have turned into insect-like legs which the Flesh uses for digging up roots and tearing down carrion, whilst their bodies have become extremely bloated and fatty. However, they are mostly harmless and will generally flee from a stalker if one approaches unless the creature is attacked or cornered."
 
 						if("Snork")
 							article_title = "Snork"
@@ -990,7 +990,7 @@ var/global/global_lentahtml = ""
 							article_img = "nodata.gif"
 							article_img_width = 179
 							article_img_height = 128
-							article_text = "Mutagenic processes engineered by radiation and anomalies have played a significant part in shaping these mammals: they have lost all fur in a few places and grown long, bristly fur in others. The animal's hooves have changed in shape and become sharper, acquiring a resemblance to claws. Also, their pupils have become colorless, while both pigmentation disorders and deep wrinkles have appeared on their bald heads. They have also grown an extra pair of tusks which are easily recognized."
+							article_text = "Less touched by mutations physically, the boars of Ukraine have developed a serious taste for human flesh and much sharper intelligence than their non-mutant cousins. They are large animals and their ability to survive and aggression surpasses all living relatives outside of the Zone. Mutagenic processes have played a significant part in shaping these mammals, as they have lost all fur in places and grown long, bristly fur in others. Usually if distance is kept and aren’t antagonised, they will stick with their herd of Flesh and other boars."
 
 						if("Artifacts")
 							article_title = "Artifacts"
